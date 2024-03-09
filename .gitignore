@@ -1,0 +1,12 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Anaconda
+.env/
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pickle
+*.pkl
